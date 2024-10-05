@@ -138,9 +138,13 @@ dmypy.json
 cython_debug/
 
 # documentation
-.csv
-.doc
-.docx
-.parquet
-.xlsx
-.xls
+*.csv
+*.doc
+*.docx
+*.parquet
+*.xlsx
+*.xls
+
+# models
+.pkl
+*.pkl
