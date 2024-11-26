@@ -148,3 +148,7 @@ cython_debug/
 # models
 .pkl
 *.pkl
+
+# data
+.zip
+*.zip
